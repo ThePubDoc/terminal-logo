@@ -25,4 +25,4 @@ npm i terminal-logo -g
   What will be the Command to display your logo ? $command
   ```
 
-Whenever the user will open terminal, logo create will appear by deafult. User can see the logo any time by just issuing the command created.
+Whenever the user will open terminal, logo will appear by deafult. User can see the logo any time by just issuing the command created.
