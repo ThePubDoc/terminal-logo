@@ -1,0 +1,24 @@
+{
+	"name": "terminal-logo",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"terminal",
+		"logo",
+		"cli"
+	],
+	"author": "Aayush Agrawal",
+	"license": "MIT",
+	"dependencies": {
+		"ascii-art": "^2.5.0",
+		"ascii-art-font": "^1.0.2",
+		"fs": "0.0.1-security"
+	},
+	"bin": {
+		"terminal": "./cli.js"
+	}
+}
